@@ -20,8 +20,8 @@ pip install scikit-learn
 # Author 
 * Laukit Mandal
 
-My Linkedin Profile :- [Laukit Mandal](https://www.linkedin.com/in/laukit-mandal-a750a520a/)<br>
-My Mail Id :- laukitmandal02@gmail.com
+My Linkedin Profile :- [Kshitij Agrawal](https://www.linkedin.com/in/kshitij-agrawal-3a557814b/)<br>
+My Mail Id :- kshitij.agrawal0209@gmail.com
 
 # 🙏Acknowledgments
 * Special Thanks to [LGM](https://www.linkedin.com/company/letsgrowmore/) And [Mr. Aman Kesarwani](https://www.linkedin.com/in/~amankesarwani/) for this Wonderful Internship Program and Inspiration to do more.
