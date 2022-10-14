@@ -18,7 +18,7 @@ pip install scikit-learn
 * Tensorflow
 
 # Author 
-* Laukit Mandal
+* Kshitj Agrawal
 
 My Linkedin Profile :- [Kshitij Agrawal](https://www.linkedin.com/in/kshitij-agrawal-3a557814b/)<br>
 My Mail Id :- kshitij.agrawal0209@gmail.com
